@@ -1,0 +1,2 @@
+import{r as t,j as e}from"./index-B6jrEwvZ.js";const s="/assets/404%20Page%20Animation-C6LIsZe0.gif",a=()=>(t.useEffect(()=>{document.title="صفحه مورد نظر یافت نشد!"},[]),e.jsxs("div",{className:`min-h-screen text-3xl font-bold text-gray-600 
+                    flex flex-col justify-center items-center select-none`,children:[e.jsx("span",{children:"صفحه یافت نشد!"}),e.jsx("img",{src:s,alt:"404 not found",draggable:!1,className:"w-[500px]"})]}));export{a as default};
